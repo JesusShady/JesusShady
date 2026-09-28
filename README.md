@@ -58,18 +58,4 @@
 
   <hr width="50%" />
 
-  <h3>♰ 03 // SANCTUARY & CONTACT ♰</h3>
-
-  <p>
-    <a href="https://rocatech.app" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/OFFICIAL%20SITE-rocatech.app-8B0000?style=for-the-badge&logo=safari&logoColor=white" alt="rocatech.app" />
-    </a>
-  </p>
-
-  <br />
-
-  <p>
-    <sub>♰ · · · M E M E N T O &nbsp; M O R I · · · ♰</sub>
-  </p>
-
 </div>
