@@ -25,7 +25,7 @@
 
   <p>
     Desarrollador de software enfocado en construir herramientas sólidas, código estructurado y arquitecturas de alto rendimiento.<br />
-    Apasionado por la precisión del bajo nivel, la ingeniería limpia y la estética oscura.
+    Apasionado por la precisión del bajo nivel y la ingeniería limpia.
   </p>
 
   <br />
