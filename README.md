@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./assets/cross.png" width="190" alt="Gothic Cross" style="border-radius: 8px;" />
-
   <h1>♰ JESUS COLMENARES ♰</h1>
 
   <p>
